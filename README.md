@@ -1,5 +1,5 @@
 # Profiling-and-Analyzing-Data-for-Yelp
-Profiled the data and came up with inferences and analysis for predicting the overall star rating for businesses and other business questions using SQL.
+Profiled the data and came up with inferences and analysis for predicting the overall star rating for the businesses in Yelp.
 
 - Identify a subset of data needed from a column or set of columns and write a SQL query to limit those results.
 - Use SQL commands to filter, sort and summarize data.
